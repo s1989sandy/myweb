@@ -63,7 +63,7 @@
                   <value>org.sonar.java.jacoco.JUnitListener</value>
                 </property>
               </properties>
-              <testFailureIgnore>true</testFailureIgnore>
+              <testFailureIgnore>false</testFailureIgnore>
             </configuration>
           </plugin>
 		</plugins>
